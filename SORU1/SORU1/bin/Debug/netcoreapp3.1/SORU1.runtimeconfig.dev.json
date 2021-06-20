@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\cotan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\cotan\\.nuget\\packages"
+    ]
+  }
+}

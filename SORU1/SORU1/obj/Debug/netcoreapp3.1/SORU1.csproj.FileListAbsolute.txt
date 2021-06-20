@@ -1,0 +1,39 @@
+C:\Users\cotan\source\repos\SORU1\SORU1\bin\Debug\netcoreapp3.1\SORU1.exe
+C:\Users\cotan\source\repos\SORU1\SORU1\bin\Debug\netcoreapp3.1\SORU1.deps.json
+C:\Users\cotan\source\repos\SORU1\SORU1\bin\Debug\netcoreapp3.1\SORU1.runtimeconfig.json
+C:\Users\cotan\source\repos\SORU1\SORU1\bin\Debug\netcoreapp3.1\SORU1.runtimeconfig.dev.json
+C:\Users\cotan\source\repos\SORU1\SORU1\bin\Debug\netcoreapp3.1\SORU1.dll
+C:\Users\cotan\source\repos\SORU1\SORU1\bin\Debug\netcoreapp3.1\SORU1.pdb
+C:\Users\cotan\source\repos\SORU1\SORU1\obj\Debug\netcoreapp3.1\SORU1.csprojAssemblyReference.cache
+C:\Users\cotan\source\repos\SORU1\SORU1\obj\Debug\netcoreapp3.1\SORU1.AssemblyInfoInputs.cache
+C:\Users\cotan\source\repos\SORU1\SORU1\obj\Debug\netcoreapp3.1\SORU1.AssemblyInfo.cs
+C:\Users\cotan\source\repos\SORU1\SORU1\obj\Debug\netcoreapp3.1\SORU1.csproj.CoreCompileInputs.cache
+C:\Users\cotan\source\repos\SORU1\SORU1\obj\Debug\netcoreapp3.1\SORU1.dll
+C:\Users\cotan\source\repos\SORU1\SORU1\obj\Debug\netcoreapp3.1\SORU1.pdb
+C:\Users\cotan\source\repos\SORU1\SORU1\obj\Debug\netcoreapp3.1\SORU1.genruntimeconfig.cache
+C:\Users\cotan\Desktop\SORU1\SORU1\bin\Debug\netcoreapp3.1\SORU1.exe
+C:\Users\cotan\Desktop\SORU1\SORU1\bin\Debug\netcoreapp3.1\SORU1.deps.json
+C:\Users\cotan\Desktop\SORU1\SORU1\bin\Debug\netcoreapp3.1\SORU1.runtimeconfig.json
+C:\Users\cotan\Desktop\SORU1\SORU1\bin\Debug\netcoreapp3.1\SORU1.runtimeconfig.dev.json
+C:\Users\cotan\Desktop\SORU1\SORU1\bin\Debug\netcoreapp3.1\SORU1.dll
+C:\Users\cotan\Desktop\SORU1\SORU1\bin\Debug\netcoreapp3.1\SORU1.pdb
+C:\Users\cotan\Desktop\SORU1\SORU1\obj\Debug\netcoreapp3.1\SORU1.csprojAssemblyReference.cache
+C:\Users\cotan\Desktop\SORU1\SORU1\obj\Debug\netcoreapp3.1\SORU1.AssemblyInfoInputs.cache
+C:\Users\cotan\Desktop\SORU1\SORU1\obj\Debug\netcoreapp3.1\SORU1.AssemblyInfo.cs
+C:\Users\cotan\Desktop\SORU1\SORU1\obj\Debug\netcoreapp3.1\SORU1.csproj.CoreCompileInputs.cache
+C:\Users\cotan\Desktop\SORU1\SORU1\obj\Debug\netcoreapp3.1\SORU1.dll
+C:\Users\cotan\Desktop\SORU1\SORU1\obj\Debug\netcoreapp3.1\SORU1.pdb
+C:\Users\cotan\Desktop\SORU1\SORU1\obj\Debug\netcoreapp3.1\SORU1.genruntimeconfig.cache
+C:\Users\cotan\Desktop\NDP ÖDEV\SORU1\SORU1\bin\Debug\netcoreapp3.1\SORU1.exe
+C:\Users\cotan\Desktop\NDP ÖDEV\SORU1\SORU1\bin\Debug\netcoreapp3.1\SORU1.deps.json
+C:\Users\cotan\Desktop\NDP ÖDEV\SORU1\SORU1\bin\Debug\netcoreapp3.1\SORU1.runtimeconfig.json
+C:\Users\cotan\Desktop\NDP ÖDEV\SORU1\SORU1\bin\Debug\netcoreapp3.1\SORU1.runtimeconfig.dev.json
+C:\Users\cotan\Desktop\NDP ÖDEV\SORU1\SORU1\bin\Debug\netcoreapp3.1\SORU1.dll
+C:\Users\cotan\Desktop\NDP ÖDEV\SORU1\SORU1\bin\Debug\netcoreapp3.1\SORU1.pdb
+C:\Users\cotan\Desktop\NDP ÖDEV\SORU1\SORU1\obj\Debug\netcoreapp3.1\SORU1.csprojAssemblyReference.cache
+C:\Users\cotan\Desktop\NDP ÖDEV\SORU1\SORU1\obj\Debug\netcoreapp3.1\SORU1.AssemblyInfoInputs.cache
+C:\Users\cotan\Desktop\NDP ÖDEV\SORU1\SORU1\obj\Debug\netcoreapp3.1\SORU1.AssemblyInfo.cs
+C:\Users\cotan\Desktop\NDP ÖDEV\SORU1\SORU1\obj\Debug\netcoreapp3.1\SORU1.csproj.CoreCompileInputs.cache
+C:\Users\cotan\Desktop\NDP ÖDEV\SORU1\SORU1\obj\Debug\netcoreapp3.1\SORU1.dll
+C:\Users\cotan\Desktop\NDP ÖDEV\SORU1\SORU1\obj\Debug\netcoreapp3.1\SORU1.pdb
+C:\Users\cotan\Desktop\NDP ÖDEV\SORU1\SORU1\obj\Debug\netcoreapp3.1\SORU1.genruntimeconfig.cache
